@@ -1,0 +1,3 @@
+C:/Users/email/CLionProjects/animisoDev/cmake-build-debug/CMakeFiles/animisoDev.dir
+C:/Users/email/CLionProjects/animisoDev/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/email/CLionProjects/animisoDev/cmake-build-debug/CMakeFiles/rebuild_cache.dir
