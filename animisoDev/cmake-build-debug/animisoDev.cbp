@@ -94,9 +94,6 @@
 		<Unit filename="C:/Users/email/CLionProjects/animisoDev/main.cpp">
 			<Option target="animisoDev"/>
 		</Unit>
-		<Unit filename="C:/Users/email/CLionProjects/animisoDev/map.h">
-			<Option target="animisoDev"/>
-		</Unit>
 		<Unit filename="C:/Users/email/CLionProjects/animisoDev/minHeap.h">
 			<Option target="animisoDev"/>
 		</Unit>
