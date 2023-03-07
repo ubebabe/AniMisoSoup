@@ -1,7 +1,7 @@
 # AniMiso Soup
-"Man, I really want some high quality anime."
+*"Man, I really want some high quality anime."*
 
-"Oh, my God! High quality anime!"
+*"Oh, my God! High quality anime!"*
 
 
 AniMiso Soup is a program that provides top quality anime. Organized by data structure's built from scratch, the user can either
