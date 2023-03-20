@@ -1,5 +1,5 @@
 # AniMiso Soup
-*"Man, I really want some high quality anime."*
+*"Hmm, I really want some high quality anime."*
 
 *"Oh, my God! High quality anime!"*
 
@@ -10,3 +10,5 @@ AniMiso Soup is a program that provides top quality anime. Organized by data str
   - review the top 10 anime from the dataset
   
 To run, download the project folder in desired IDE. The file for the dataset is already included - so, just run the program and explore as much anime to your heart's desire. 
+
+Project Name Inspiration - https://www.tiktok.com/@gnocchi500/video/7016739535925103877
